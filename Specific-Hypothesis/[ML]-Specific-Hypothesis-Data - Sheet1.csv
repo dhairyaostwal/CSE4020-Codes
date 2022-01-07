@@ -1,0 +1,6 @@
+Paper,Citation,Size,Library,Price,Edition,Buy
+1,Low,Small,No,Cheap,Many,No
+2,High,Large,No,Expensive,One,Yes
+3,Low,Large,Yes,Expensive,Few,No
+4,High,Medium,No,Expensive,Many,Yes
+5,High,Small,No,Cheap,Many,Yes
