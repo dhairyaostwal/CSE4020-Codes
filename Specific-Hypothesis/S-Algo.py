@@ -3,7 +3,7 @@
 
 import csv
 a = []
-with open('enjoysport.csv', 'r') as csvfile:
+with open('../data/enjoysport.csv', 'r') as csvfile:
     next(csvfile)
     for row in csv.reader(csvfile):
         a.append(row)
